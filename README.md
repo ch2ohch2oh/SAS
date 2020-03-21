@@ -13,3 +13,5 @@ Grocery database dataset [SaleDB](SaleDB) by John Dow Dawick in [Kaggle](https:/
 2. [Create a Dashboard using Highcharts and Django](https://www.highcharts.com/blog/tutorials/create-a-dashboard-using-highcharts-and-django/)
 3. [Connect a Python Application to Oracle Database Cloud Service](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/apaas/python/python-oracle-accs/python-oracle-accs.html)
 4. [Using Python With Oracle Database 11g](https://www.oracle.com/technical-resources/articles/database/python-with-database-11g.html)
+5. [Database - Django Documentation](https://ufl.zoom.us/j/172683163)
+6. [Building Oracle Database-backed Web Applications in Django](https://developer.oracle.com/dsl/vasiliev-django.html)
